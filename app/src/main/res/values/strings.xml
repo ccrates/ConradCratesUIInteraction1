@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UIInteraction01Curated</string>
+
+    <string name="header_text_1">CraveBox</string>
+    <string name="body_text_1">Licensed apparel and collectibles, delivered monthly</string>
+    <string name="header_text_2">Curated</string>
+    <string name="body_text_2">Curated by an incredible team of fashion designers influencers</string>
+    <string name="header_text_3">Personalised</string>
+    <string name="body_text_3">CraveBox plus, get a dedicated designer that works with you to create personalised boxes, just for you</string>
+</resources>
